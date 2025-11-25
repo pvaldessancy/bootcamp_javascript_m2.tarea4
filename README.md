@@ -1,4 +1,7 @@
 # bootcamp_javascript_m2.tarea4
+Tarea 5: Se agregó el archivo app.js con la funcionalidad de scroll suave para el botón "Ir arriba".
+
+
 Tarea 4 - Modulo 2 - Diseño responsivo
 Ejercicio Práctico - Diseño responsivo y Navbar con Bootstrap
 Actividad Práctica: Diseño responsivo y Navbar con Bootstrap
