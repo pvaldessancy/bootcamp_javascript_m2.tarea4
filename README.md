@@ -5,16 +5,17 @@ Tarea 6: Ejercicio Práctico - Git y Github
 Esta es una guía rápida de los comandos fundamentales de Git, que se utiliza para el control de versiones de proyectos.
 
 Comando, Definición breve, Ejemplo de uso
-git --version, Muestra la versión instalada de Git, git --version
-git init, Inicializa un repositorio en la carpeta actual, git init
-git add, Agrega cambios al área de preparación (staging), git add . (agrega todos los archivos)
-git commit, Registra los cambios con un mensaje descriptivo, git commit -m "Primer commit"
-git status, Muestra el estado del repositorio, git status
+
+- git --version, Muestra la versión instalada de Git, git --version
+- git init, Inicializa un repositorio en la carpeta actual, git init
+- git add, Agrega cambios al área de preparación (staging), git add . (agrega todos los archivos)
+- git commit, Registra los cambios con un mensaje descriptivo, git commit -m "Primer commit"
+- git status, Muestra el estado del repositorio, git status
 
 💡 Tip: El flujo típico de trabajo es:
-git add . 
-git commit -m "mensaje"
-git status
+- git add . 
+- git commit -m "mensaje"
+- git status
 
 
 
